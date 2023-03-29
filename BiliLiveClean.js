@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         去除B站直播底部礼物栏
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  去除B站直播网页全屏后的底部礼物栏
+// @author       HideRua
+// @match        https://live.bilibili.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
+// @grant        none
+// ==/UserScript==
 
 (function() {
     'use strict';
